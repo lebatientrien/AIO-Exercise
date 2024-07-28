@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "lebatientrien",
+        "projectKey": "lebatientrien_AIO-Exercise"
+    }
+}
